@@ -13,7 +13,7 @@ This online application will help IoTBay to achieve the following objectives:
 4.	Improve staff management experience (accounts, database, inventory)
 
 
-###Project Scope
+### Project Scope
 
 The online application will allow the users (staff and customers) to register and login into the application using their user id (email) and password.
 
@@ -23,6 +23,6 @@ The customer users can browser, search, order, track their orders, manage their 
 
 The online application will allow anonymous users (none-registered) to browse, search, purchase and track their orders. 
 
-###How to deploy:
+### How to deploy:
 
-###How to run the software:
+### How to run the software:
